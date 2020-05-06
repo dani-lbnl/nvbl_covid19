@@ -1,5 +1,5 @@
 # nvbl_covid19
-Developments related to the National Virtual Bio Lab initiative focused on covid19 computer aided testing
+Developments related to investigations on covid19 - *computer aided testing*
 - Lung scans and covid19: CT, CXR, US
 - Deep learning for:
   - segmentation of lungs
